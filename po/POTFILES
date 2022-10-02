@@ -1,0 +1,4 @@
+data/al.getcryst.opal.desktop.in
+data/al.getcryst.opal.appdata.xml.in
+data/al.getcryst.opal.gschema.xml
+src/window.ui

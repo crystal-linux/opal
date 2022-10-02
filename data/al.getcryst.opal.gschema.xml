@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="opal">
+	<schema id="al.getcryst.opal" path="/al/getcryst/opal/">
+	</schema>
+</schemalist>
